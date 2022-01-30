@@ -8,5 +8,7 @@ public class test {
     o.display();
     Triange tr = new TrianglePryam();
     tr.display();
+    Figure sq = new Square();
+    sq.display();
     }
 }
